@@ -12,7 +12,7 @@ export default function Recent() {
         },{
             id:1,
             county:"county",
-            image:`${fire}`,
+            image:`${floods}`,
             responded:'true'
         },{
             id:2,
